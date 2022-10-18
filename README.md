@@ -24,7 +24,7 @@
 - Processing 4.0.1
 
 ## Application Features
-- Static code analysis
+- Static Code Analysis
 - Compile Test
 - Dynamic Testing
 
