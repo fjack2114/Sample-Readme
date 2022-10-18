@@ -31,7 +31,7 @@
 ## Setup
 - User can run PuNIT using Windows, Mac, or Linux
 
-#### To install:
+### To install:
 - ......
 
 ## Room for Development
