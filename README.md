@@ -17,3 +17,24 @@
 - It was developed as an aid to mark the assignments and give an idea of how the student performed.
 - Running the assignment and viewing the output would still be necessary to get an indicator of how the program visually performs
 -PuNit was modeled around a sample assignment provided by Ansgar Fenker, convenor for COMP4050 at Macquarie University
+
+## Technology Used
+- Java 11
+- PMD code analysis tool (version 6.49.0)
+- Processing 4.0.1
+
+## Application Features
+- Static code analysis
+- Compile Test
+- Dynamic Testing
+
+## Setup
+- User can run PuNIT using Windows, Mac, or Linux
+
+- To install:
+- ......
+
+## Room for Development
+
+## Project Status
+- The project is set to finish in November 2022 with the end of COMP4050. There will be no new updates or bug fixes.
