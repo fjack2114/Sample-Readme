@@ -21,7 +21,8 @@
 ## Technology Used
 - Java 11
 - PMD code analysis tool (version 6.49.0)
-- Processing 4.0.1
+- Processing (version 4.0.1)
+- Apache POI (version 5.2.3)
 
 ## Application Features
 - Static Code Analysis
