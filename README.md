@@ -40,13 +40,5 @@
 - The project is set to finish in November 2022 with the end of COMP4050. There will be no new updates or bug fixes.
 
 ## Licenses
-
-### Apache 2.0 License
-[![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
-
-### BSD 3-Clause License
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-### The MIT License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+PuNIT is created under the MIT license. See the LICENSE file for details.
 
