@@ -12,14 +12,14 @@
 * [Licenses](#licenses)
 
 ## Description
-- This project is a CLI (command line interface) that runs locally on your machine 
+- This project is a command line interface (CLI) that runs locally on your machine
 - The purpose of the project is to streamline the marking of COMP1000 student's Processing assignments.
-- It was developed as an aid to mark the assignments and give an idea of how the student performed.
-- Running the assignment and viewing the output would still be necessary to get an indicator of how the program visually performs
-- PuNit was modeled around a sample assignment provided by Ansgar Fenker, convenor for COMP4050 at Macquarie University
+- It was developed as an aid to mark the assignments and give feedback on how the student performed.
+- Running the assignment with Processing and viewing the output would still be necessary to get an indicator of how the program visually performs
+- PuNIT was modeled around a sample assignment provided by Ansgar Fenker, convenor for COMP4050 at Macquarie University
 
 ## Technology Used
-- Java 11
+- Java 16
 - PMD code analysis tool (version 6.49.0)
 - Processing (version 4.0.1)
 - Apache POI (version 5.2.3)
@@ -33,13 +33,24 @@
 User can run PuNIT using Windows, Mac, or Linux
 
 #### To install:
-- ......
+- Clone the repository or download the ZIP file
+
+#### To run (Windows):
+- Open a terminal on your computer
+- In the terminal, navigate to the parent folder of PuNIT
+- Execute the "run.bat" file
+- The first argument required is the parent folder location of the Processing files to be marked
+- The second argument required is the location of the "TestFile.txt" file
+- The third argument required is the location of the "staticRules.xml" file
+- The output will be located in the "My Documents" folder on your computer
 
 ## Room for Development
+Future development could be done by investigating if dynamic tests could be generalised to any assignment, rather than the current concrete implementation tied to MarchPenguin.
 
 ## Project Status
 The project is set to finish in November 2022 with the end of COMP4050. There will be no new updates or bug fixes.
 
 ## Licenses
 PuNIT is created under the MIT license. See the LICENSE file for details.
+
 
